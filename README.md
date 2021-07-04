@@ -1,1 +1,2 @@
-# Hotel_booking_analysis
+# Hotel booking analysis
+EDA for hotel booking data
