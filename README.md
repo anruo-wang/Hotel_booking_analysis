@@ -3,7 +3,7 @@ EDA for hotel booking data
 
 The data used in this notebook are from [Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand).
 
-SQL is used for creating tables for tableau.
+SQL is used for creating tables for tableau. The sql qureies for this project can be found [here](https://github.com/anruo-wang/Hotel_booking_analysis/blob/main/hotel_EDA_sql.sql).
 
 All visualization in this notebook are created using tableau.
 
